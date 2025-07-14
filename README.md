@@ -1,4 +1,4 @@
-# ☕ Coffee Sales Analysis Dashboard
+# ☕ Coffee Sales Analysis 
 
 This project analyzes daily transactions from a coffee vending machine dataset using Python and Power BI.
 
